@@ -1,17 +1,60 @@
-<h1 align="center">Hi 👋, My Name is Mukesh Kumar</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<h3 align="center">Specialized in Front-End Development</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshkumarcoder" alt="mukeshkumarcoder" /></a> </p>
+# ⚡ Mukesh Kumar
+### **Product-Focused Full-Stack Developer**
+**MERN Stack | GenAI Integration | Scalable Architectures**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-gupta-49108624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-gupta-49108624a/" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-gupta-49108624a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mukeshkumarcoder&theme=flat&no-bg=true&margin-w=15" alt="trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshkumarcoder&show_icons=true&locale=en&layout=compact" alt="mukeshkumarcoder" /></p>
+### 🛠️ Technical Digital Toolbox
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshkumarcoder&show_icons=true&locale=en" alt="mukeshkumarcoder" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 Coding Activity & Impact
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukeshkumarcoder&show_icons=true&theme=flat&title_color=4f46e5&icon_color=6366f1&text_color=475569&bg_color=ffffff&hide_border=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukeshkumarcoder&layout=compact&theme=flat&title_color=4f46e5&icon_color=6366f1&text_color=475569&bg_color=ffffff&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=mukeshkumarcoder&theme=flat&background=ffffff&ring=4f46e5&fire=4f46e5&currStreakNum=475569&sideLabels=475569&dates=475569&hide_border=true" width="100%" />
+  
+  <br />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkumarcoder&theme=github&color=4f46e5&bg_color=ffffff&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and Indigo code. Let's build something amazing together.</sub>
+</div>
