@@ -19,7 +19,7 @@ Building scalable web applications with modern JavaScript technologies, crafting
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshKumarCoder&theme=github" />
+  <img src="https://raw.githubusercontent.com/MukeshKumarCoder/MukeshKumarCoder/output/github-contribution-grid-snake.svg" />
 </p>
 
 </div>
