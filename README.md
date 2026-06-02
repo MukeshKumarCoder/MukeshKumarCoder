@@ -1,60 +1,128 @@
 <div align="center">
 
-# ⚡ Mukesh Kumar
-### **Product-Focused Full-Stack Developer**
-**MERN Stack | GenAI Integration | Scalable Architectures**
+# 👋 Hi, I'm Mukesh Kumar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-gupta-49108624a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+### Full Stack MERN Developer | Frontend Engineer | AI Enthusiast
 
----
+Building scalable web applications with modern JavaScript technologies, crafting high-performance user experiences, and exploring Generative AI to solve real-world problems.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshkumarcoder&theme=flat&no-bg=true&margin-w=15" alt="trophies" />
+  <a href="https://www.linkedin.com/in/mukesh-gupta-49108624a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/mukeshkumarcoder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=mukeshkumarcoder&theme=flat&no-bg=true&margin-w=15" />
 
-### 🛠️ Technical Digital Toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### 📊 Coding Activity & Impact
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukeshkumarcoder&show_icons=true&theme=flat&title_color=4f46e5&icon_color=6366f1&text_color=475569&bg_color=ffffff&hide_border=true" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukeshkumarcoder&layout=compact&theme=flat&title_color=4f46e5&icon_color=6366f1&text_color=475569&bg_color=ffffff&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=mukeshkumarcoder&theme=flat&background=ffffff&ring=4f46e5&fire=4f46e5&currStreakNum=475569&sideLabels=475569&dates=475569&hide_border=true" width="100%" />
-  
-  <br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkumarcoder&theme=github&color=4f46e5&bg_color=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
 
+## 🚀 About Me
+
+- 💼 Full Stack MERN Developer with **2+ years of experience**
+- 🎯 Currently working as a **Frontend Developer at Baofeng India**
+- ⚛️ Specialized in **React.js, TypeScript, Tailwind CSS, Redux Toolkit, and Next.js**
+- 🔥 Experienced in building scalable applications using **Node.js, Express.js, MongoDB**
+- 🤖 Exploring **Generative AI and AI-powered web applications**
+- ☁️ Hands-on experience with **Docker, AWS, Vercel, Netlify, Render**
+- 📍 Based in Gurugram, Haryana, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,vercel,netlify" />
+</p>
+
+### Animation & UI
+
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+---
+
+## 🌟 Featured Project
+
+### 🎓 StudyNotion — MERN EdTech Platform
+
+- Role-based authentication and authorization system
+- JWT secured APIs with OTP verification flow
+- Razorpay payment integration
+- Course management and progress tracking
+- Cloudinary media handling
+- Scalable backend architecture supporting 1000+ concurrent users
+- Responsive UI built with React.js, Redux Toolkit, Tailwind CSS & Vite
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
-  <sub>Built with ❤️ and Indigo code. Let's build something amazing together.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshkumarcoder&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumarcoder&layout=compact&theme=transparent&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=mukeshkumarcoder&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkumarcoder&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 💼 Current Focus
+
+```javascript
+const mukesh = {
+  role: "Frontend Developer",
+  experience: "2+ Years",
+  frontend: ["React.js", "TypeScript", "Next.js", "Redux Toolkit"],
+  backend: ["Node.js", "Express.js", "MongoDB"],
+  cloud: ["AWS", "Docker", "Render", "Vercel"],
+  learning: ["System Design", "Generative AI", "AWS Architecture"],
+  openToWork: true,
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+📧 mg328790@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/mukesh-gupta-49108624a/
+
+🌐 Portfolio: YOUR_PORTFOLIO_LINK
+
+---
+
+<div align="center">
+
+### ⭐ Building products, solving problems, and continuously learning.
+
 </div>
