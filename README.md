@@ -18,7 +18,13 @@ Building scalable web applications with modern JavaScript technologies, crafting
   </a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MukeshKumarCoder&theme=flat&no-bg=true&margin-w=15" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukeshKumarCoder&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MukeshKumarCoder&theme=transparent&hide_border=true" />
+</p>
 
 </div>
 
