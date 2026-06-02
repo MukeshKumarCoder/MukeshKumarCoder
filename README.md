@@ -18,7 +18,7 @@ Building scalable web applications with modern JavaScript technologies, crafting
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MukeshKumarCoder&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=MukeshKumarCoder&theme=flat&no-bg=true&margin-w=15" />
 
 </div>
 
