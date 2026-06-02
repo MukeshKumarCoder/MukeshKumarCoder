@@ -19,7 +19,7 @@ Building scalable web applications with modern JavaScript technologies, crafting
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MukeshKumarCoder/MukeshKumarCoder/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshKumarCoder&theme=github" />
 </p>
 
 </div>
@@ -72,7 +72,7 @@ Building scalable web applications with modern JavaScript technologies, crafting
 ### 🎓 StudyNotion — MERN EdTech Platform
 
 - Role-based authentication and authorization system
-- JWT secured APIs with OTP verification flow
+- JWT-secured APIs with OTP verification flow
 - Razorpay payment integration
 - Course management and progress tracking
 - Cloudinary media handling
@@ -119,7 +119,7 @@ const mukesh = {
 
 💼 LinkedIn: https://www.linkedin.com/in/mukesh-gupta-49108624a/
 
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
+🌐 Portfolio: https://mukeshkumarcoder.github.io/mukesh_gupta_coder/
 
 ---
 
